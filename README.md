@@ -1,6 +1,6 @@
 <img src="https://www.coreof.tech/branding/logo.png" width="100" title="coreof.tech" alt="coreof.tech">
 
-# Rick & Morty SPA
+# Rick & Morty SPA (Single Page App)
 
 ## Meetup 6 Octubre 2020: Destripando la web: ¿Qué puedo llegar a hacer con una semana de javascript?
 
