@@ -1,11 +1,11 @@
 # Rick & Morty SPA
 
-![coreof.tech](https://www.coreof.tech/branding/logo.png "coreof.tech")
+![coreof.tech](https://www.coreof.tech/branding/logo.png =100x20)
 
 ## Meetup 6 Octubre 2020: Destripando la web: ¿Qué puedo llegar a hacer con una semana de javascript?
 
-* Vista previa: [https://salme92.github.io/Example-API-Rick-And-Morty-SPA/]
-* Youtube: [https://www.youtube.com/channel/UCvq95o_eAnDkPZqmMB3Vq2g]
+* **Vista previa**: https://salme92.github.io/Example-API-Rick-And-Morty-SPA/
+* **Youtube**: https://www.youtube.com/channel/UCvq95o_eAnDkPZqmMB3Vq2g
 
 ¿Te gustaría saber que podrías hacer estudiando una semana de JavaScript?.
 
